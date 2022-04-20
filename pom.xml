@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.154.84.248:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <url>http://3.110.46.40:9980/RichaTechnologies/repository/Instagram-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.154.84.248:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <url>http://3.110.46.40:9980/RichaTechnologies/repository/Instagram-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
